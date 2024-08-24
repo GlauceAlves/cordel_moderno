@@ -25,3 +25,6 @@ Abra o arquivo index.html em seu navegador preferido.
 🛠️ Customização
 Para ajustar o efeito parallax, edite as propriedades no arquivo CSS.
 Substitua a poesia ou adicione seu próprio texto para personalizar o projeto.
+
+📄 Licença
+Este projeto é distribuído sob a Licença MIT.
