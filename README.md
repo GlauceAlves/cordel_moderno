@@ -19,7 +19,7 @@ Confira a demonstração ao vivo [aqui. ](https://glaucealves.github.io/cordel_m
 
 🚀 Como Usar
 Clone este repositório:
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/GlauceAlves/cordel_moderno.git
 Abra o arquivo index.html em seu navegador preferido.
 
 🛠️ Customização
